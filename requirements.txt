@@ -1,0 +1,6 @@
+alpaca-py
+pandas
+data-science-types
+streamlit
+numpy
+plotly
